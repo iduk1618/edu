@@ -7,4 +7,4 @@ import pyautogui as pg
 # print(pg.position())
 
 #Screenshotuje cropovovano sa zadatim kooordinatama gornja leva tacka xy i donja desna tacka xy
-pg.screenshot('sc.png',region=(375,90,1400,350))
+# pg.screenshot('sc.png',region=(375,90,1400,350))
